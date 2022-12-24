@@ -1,8 +1,25 @@
 .foot{
     display: flex;
     flex-wrap: wrap;
-    padding: 15pxl;
+    justify-content: space-between;
+    padding: 15px;
+    color: white;
+}
+.navdiv{
+    /* display: flex; */
+    justify-content: space-between;
 }
 .photo img{
     width: 200px;
+}
+.accico img{
+    width: 100px;
+}
+.accico p{
+    text-align: center;
+}
+.foot .info{
+    color: white;
+    text-align: center;
+    align-items: center;
 }
