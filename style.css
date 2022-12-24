@@ -1,0 +1,8 @@
+.foot{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 15pxl;
+}
+.photo img{
+    width: 200px;
+}
